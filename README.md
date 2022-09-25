@@ -13,7 +13,7 @@ Goals:
 Stretch Goals:
 * randomization aspect so user doesn't see the same books constantly
 * user clickable "not interested"
-* save not intered books into array / local storage
+* save not interested books into array / local storage
 * search array for books to exclude before displaying search results
 * implement child safe features when looking for "children's books" - API returns The Scarlet Letter?
 
