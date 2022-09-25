@@ -11,7 +11,7 @@ Goals:
 
 
 Stretch Goals:
-* randomiztion aspect so user doesn't see the same books constantly
+* randomization aspect so user doesn't see the same books constantly
 * user clickable "not interested"
 * save not intered books into array / local storage
 * search array for books to exclude before displaying search results
