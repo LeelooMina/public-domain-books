@@ -1,5 +1,5 @@
 
-Project Gutenberg Book Reccomendations app
+Project Gutenberg Book Recommendation app
 
 Goals:
 * http://gutendex.com/
